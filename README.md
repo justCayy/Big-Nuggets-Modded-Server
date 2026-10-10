@@ -7,7 +7,7 @@ Home of the Big Nuggets' modded Minecraft server!
 To join Big Nuggets Modded, you will need the collection of mods provided in the above section.
 On top of this, you will need to download and install the Fabric Mod Loaded for Minecraft Java.
 This can be found at https://fabricmc.net/use/installer/
-Click the "Download universal jar" underneath the larger windows button.
+- Click the "Download universal jar" underneath the larger windows button.
 - Run the .jar file.
 - Click the version dropdown on "Client" and select the version matching the server.
 ### The Server is currently running version 26.2
